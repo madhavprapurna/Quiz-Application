@@ -1,0 +1,22 @@
+/* Body styles */
+
+
+
+
+/* home componet styles */
+.navbar,.navbar-nav{
+    border: 0;
+    background: none !important;
+}
+.home{
+    margin: auto auto;
+}
+.nav,.navbar-nav a{
+    background: none !important;
+}
+.navbar a{
+    color: #fff;    
+}
+#pic{
+    margin: 0 auto;
+}
